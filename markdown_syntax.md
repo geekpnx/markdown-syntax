@@ -82,6 +82,4 @@ def func():
 
 >## Superscript: **30<sup>th</sup>**
 
->## This <span style="color:red">**text**</span> is red 
-  
-  
+>## This <span style="color:red">**text**</span> is red
