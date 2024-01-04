@@ -49,7 +49,7 @@ This is <ins>Underline</ins>
 
 ---
 
-# Code
+## Code
 
 Example of an inline code: `rm *.html`
 
@@ -61,20 +61,20 @@ def func():
 
 ---
 
-# Links
+## Links
 
  - [Google](www.google.com)
  - [Youtube](www.youtube.com)
 
 ---
 
-# Image 
+## Image 
 
 ![Linux](https://i.ibb.co/PZCTWTb/Linux-Penguin.jpg)
 
 
 ---
-# Others
+## Others
 
 >## <mark>**Mark Text**</mark>
 
